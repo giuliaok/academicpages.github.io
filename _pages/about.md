@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by me!
-
-------------------------------------------------------------
-
-Whatever I wanna say about me
+I am currently a PhD student in Computational Social Sciences at The University of Bristol and The Alan Turing Insitute, supervised by [Professor Emmanouil Tranos](https://www.bristol.ac.uk/people/person/Emmanouil-Tranos-b26cd054-b65e-438c-9a73-43d0ef833f8d/) and [Dr Levi John Wolf](https://www.bristol.ac.uk/people/person/Levi-Wolf-6fd84b18-4172-4b27-aac9-55092de68fdc/). 
