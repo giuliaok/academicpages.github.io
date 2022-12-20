@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giulia Occhini"
 title_separator          : "-"
 name                     : &name "Giulia Occhini"
-description              : &description "researcher somewhere"
+description              : &description "PhD student at Bristol and The Alan Turing Institute. Interested in Computational Social Sciences and NLP."
 url                      : https://giuliaok.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giuliaok.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Giulia Occhini"
   avatar           : "profile.png"
-  bio              : "PhD in"
-  location         : "London"
+  bio              : "PhD in Computational Social Sciences"
+  location         : "The Alan Turing Institute"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   github           : "giuliaok"
   google_plus      :
@@ -93,13 +93,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
