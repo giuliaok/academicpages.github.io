@@ -4,6 +4,6 @@ collection: talks
 type: "Presentation"
 venue: "The Future of Quantitative Geography"
 date: 03-09-2021
-location: "RGS Annual Conference, online"
+location: "RGS Annual Conference, (held online)"
 ---
 
