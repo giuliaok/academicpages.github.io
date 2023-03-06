@@ -9,4 +9,4 @@ location: "(held online)"
 ---
 
 
-[Link to presentations' video]([http://example2.com](https://www.youtube.com/watch?v=LckMlbr1QUI&t=1569s))
+[Link to presentations' video](https://www.youtube.com/watch?v=LckMlbr1QUI&t=1569s)
