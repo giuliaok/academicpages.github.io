@@ -3,7 +3,7 @@ title: "NLP, websites, and the industrial classification problem"
 collection: talks
 type: "Invited Seminar Talk"
 venue: "Heilbronn Institute
-for Mathematical Research, University of Bristol"
+for Mathematical Research"
 date: 01-03-2023
 location: "(held online)"
 ---
